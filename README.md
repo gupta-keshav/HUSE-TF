@@ -69,3 +69,4 @@ This calculates the classification loss, we use simple categorical crossentropy 
 
 ![alt text width = 400](https://github.com/guramritpalsaggu/HUSE-Tensorflow/blob/master/resources/overall-loss.jpg)
 
+## To Do
